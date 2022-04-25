@@ -1,0 +1,32 @@
+.extra {
+    margin-bottom: 6rem;
+}
+
+.extra__container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.extra__container__children {
+    width: 50%;
+    display: flex;
+}
+
+.extra__container__children ul li {
+    margin-bottom: 0.7rem;
+}
+
+.extra__container__children ul li:first-child {
+    font-size: 1.3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.extra__container__children__image {
+    margin-right: 1rem;
+    /* object-fit: scale-down; */
+    width: 100px;
+    height: 100px;
+}
+

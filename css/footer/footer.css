@@ -1,0 +1,15 @@
+.footer {
+    padding: 2rem;
+    background-color: var(--cinzapPreto);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__logo {
+    width: 100%;
+}
+
+.footer__texto {
+    color: var(--brancoBack);
+}

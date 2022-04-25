@@ -3,6 +3,7 @@
     background-color: var(--cinzapPreto);
     position: fixed;
     width: 100%;
+    z-index: 1;
 }
 
 .cabecalho__container {
