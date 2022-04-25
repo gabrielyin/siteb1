@@ -1,0 +1,32 @@
+.cabecalho {
+    padding: 10px 0;
+    background-color: var(--cinzapPreto);
+    position: fixed;
+    width: 100%;
+}
+
+.cabecalho__container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalho__navegacao {
+    display: flex;
+}
+
+.cabecalho__navegacao__menu {
+    list-style: none;
+}
+
+.cabecalho__navegacao__menu__item {
+    color: #E5E5E5;
+    margin-right: 1.55rem;
+    text-decoration: none;
+}
+
+.cabecalho__navegacao__menu:last-child .cabecalho__navegacao__menu__item {
+    margin-right: 0;
+}

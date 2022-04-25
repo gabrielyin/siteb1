@@ -1,0 +1,8 @@
+.local {
+    margin-bottom: 2rem;
+}
+
+.local__container {
+    width: 90%;
+    margin: 0 auto;
+}

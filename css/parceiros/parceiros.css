@@ -1,0 +1,25 @@
+.parceiros {
+    margin-bottom: 2rem;
+}
+
+.parceiros__container {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.parceiros__container__lista {
+    display: flex;
+    width: 33.3%;
+    height: 8rem;
+    background: var(--prataClaro);
+    justify-content: center;
+}
+
+.parceiros__container__lista:nth-child(2) {
+    background: var(--prata);
+}
+
+.parceiros__container__lista__logo {
+    object-fit: none;
+}
