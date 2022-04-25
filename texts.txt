@@ -1,0 +1,82 @@
+--Nav Bar--
+
+Home
+Bester
+Produtos
+Newsletter
+Area do Represetante
+Atendimento
+Catálogo
+
+--Home--
+
+Lançamentos
+
+Consulte o representante mais próximo de você
+(21) 4063-6081
+(21) 4063-6165
+(21) 98880-0127
+(21) 96508-9148
+pedidos@riochens.com.br
+
+Showroom (Agende sua visita)
+RIO DE JANEIRO
+Av. Dona Tereza Cristina - QD. 7 - Lts. 21, 22, 23 e 24
+Chácaras Rio Petrópolis - Duque de Caxias - RJ
+CEP.: 25.230-480
+(21) 98880-0127 / (21)96494-8337
+(21)96508-9148
+
+--Bestfer--
+
+Nossa trajetória inicia-se em 2000, no Rio de Janeiro. 
+
+Especializada no mercado brasileiro, a marca Bestfer tornou-se referência nos segmentos de ferramentas e melaminas para o lar."
+
+Com a revisão de processos, atualização de conceitos, fortalecimento das marcas, foco nos segmentos de atuação, consistência e continuidade da linha de produtos, apresentação de novidades ao mercado nacional, agilidade no atendimento, planejamento estratégico, desenvolvimento de produtos e pessoas, agregamos valor e incrementamos o volume de vendas, contribuindo para os bons negócios e satisfação de toda a cadeia de clientes.
+
+Estamos em constante desenvolvimento, investindo cada vez mais em design, marketing, controle de qualidade e aprimoramento técnico dos produtos. Participamos anualmente das principais feiras nacionais e internacionais, para pesquisar as novidades e oferecer ao consumidor brasileiro produtos com o melhor custo-benefício.
+ 
+Nossos itens são comercializados em todo o país através de representantes e do atendimento direto. Nossa maior referência e motivo de orgulho são os mais de 3.000 clientes ativos, satisfeitos. Todos trabalhando juntos para que você tenha um produto Bestfer sempre à mão quando precisar.
+
+--Newsletter--
+
+Deixe aqui sua mensagem e solicite nossas próximas Newsletters.
+
+    --Formulário--
+        -Fields-
+        Nome
+        Email
+        Telefone
+        Telefone
+        Digite sua mensagem aqui
+        -Button-
+        Enviar
+
+--Atendimento--
+
+COMERCIAL
+pedidos@riochens.com.br
+(21) 4063-6081
+(21) 4063-6165
+(21) 98880-0127
+(21) 96508-9148
+
+SAC
+sac@bestfer.com.br
+(21) 98880-0126
+
+--Catálogo--
+
+Faça o download de nossa versão digital do catálogo Bestfer 2022
+--Button--
+Download do catálogo
+
+Catálogo de Lançamentos 2022
+--Button--
+Download do catálogo
+
+--footer--
+
+RIO CHEN'S IMPORT & EXPORT LTDA © 2021
+
