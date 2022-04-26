@@ -1,0 +1,30 @@
+.conteudo {
+    background-color: var(--brancoBack);
+}
+
+.conteudo__container {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.conteudo__container img {
+    padding: 3rem 0;
+}
+
+.conteudo__container__info {
+    background-color: var(--brancoBack);
+    border: 2px solid #FFFFFF;
+    padding: 4rem 5rem;
+    width: 64%;
+    margin: 0 auto;
+    margin-bottom: 7rem;
+}
+
+.conteudo__container__info__texto {
+    font-size: 1.3rem;
+    color: var(--cinzaPreto);
+    margin-bottom: 1rem;
+    line-height: 1.8rem;
+}

@@ -1,6 +1,6 @@
 .cabecalho {
     padding: 10px 0;
-    background-color: var(--cinzapPreto);
+    background-color: var(--cinzaPreto);
     position: fixed;
     width: 100%;
     z-index: 1;
