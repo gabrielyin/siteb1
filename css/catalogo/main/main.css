@@ -10,5 +10,52 @@
 
 .main__container__card {
     background-color: var(--cinzaPreto);
-    border-radius: 0px 10px 10px 0px;
+    border-radius: 0px 10px 120px 0px;
+    display: flex;
 }
+
+.main__container__card:first-child {
+    border-radius: 0px 120px 10px 0px;
+}
+
+.main__container__card:first-child {
+    margin-bottom: 3rem;
+}
+
+.main__container__card__image {
+    height: 300px;
+}
+
+.main__container__card__inside {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 3rem 6rem;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main__container__card__inside h1 {
+    color: var(--brancoBack);
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.main__container__card__inside button {
+    width: 100%;
+    padding: 0.75rem 0;
+    border-radius: 10px;
+    background-color: var(--prata);
+    color: var(--brancoBack);
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 0.06rem;
+    transition: all 1s ease-in-out;
+    border: none;
+    outline: none;
+}
+
+.main__container__card__inside button:hover {
+    background-color: #7C7C7C;
+} 
