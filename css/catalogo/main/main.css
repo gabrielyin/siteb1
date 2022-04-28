@@ -1,0 +1,14 @@
+.main {
+    padding-top: 60px;
+    margin-bottom: 2rem;
+}
+
+.main__container {
+    width: 80%;
+    margin: 4rem auto;
+}
+
+.main__container__card {
+    background-color: var(--cinzaPreto);
+    border-radius: 0px 10px 10px 0px;
+}
