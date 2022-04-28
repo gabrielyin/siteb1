@@ -42,12 +42,11 @@
     text-align: center;
 }
 
-.main__container__card__inside button {
+.main__container__card__inside button{
     width: 100%;
     padding: 0.75rem 0;
     border-radius: 10px;
     background-color: var(--prata);
-    color: var(--brancoBack);
     font-weight: 700;
     font-size: 1.5rem;
     letter-spacing: 0.06rem;
@@ -56,6 +55,12 @@
     outline: none;
 }
 
+.main__container__card__inside button a{
+    text-decoration: none;
+    color: var(--brancoBack);
+}
+
 .main__container__card__inside button:hover {
     background-color: #7C7C7C;
+    cursor: pointer;
 } 
