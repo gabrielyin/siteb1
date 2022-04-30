@@ -1,0 +1,59 @@
+.mainForm {
+    padding-top: 60px;
+}
+
+.mainForm__container {
+    width: 80%;
+    margin: 4rem auto;
+    display: flex;
+    background-color: grey;
+    padding: 3rem;
+    justify-content: space-between;
+}
+
+.mainForm__container__left {
+    width: 37.5%;
+    display: flex;
+}
+
+.mainForm__container__left img {
+    width: 100%;
+    object-fit: contain;
+}
+
+.mainForm__container__right {
+    width: 57.5%;
+    display: flex;
+    flex-direction: column;
+}
+
+.mainForm__container__right label{
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.mainForm__container__right input{
+    padding: 1rem; 
+    margin-bottom: 1.5rem;
+    border: none;
+}
+
+.mainForm__container__right button {
+    padding: 1rem; 
+    margin-top: 3rem;
+    transition: all 1s ease-in-out;
+    outline: none;
+    border: none;
+}
+
+.mainForm__container__right button:hover {
+    background-color: var(--laranjaEscuro);
+    cursor: pointer;
+    border: none;
+} 
+
+.mainForm__container__right a{
+    text-decoration: none;
+    color: var(--cinzaPreto);
+}
